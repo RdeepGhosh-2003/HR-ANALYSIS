@@ -79,3 +79,19 @@ The dataset includes the following fields:
 ├── README.md # Project documentation
 └── images/ # Screenshots of the dashboard (add yours)
 
+
+---
+
+## 🧠 Learnings & Outcomes
+
+- Hands-on experience with **DAX**, **slicer interactivity**, and **data modeling**
+- Mastered dynamic calculations like profit ratio and YTD comparisons
+- Improved understanding of retail sales KPIs and storytelling with visuals
+
+---
+
+## 📜 License
+
+This project is released under the [MIT License](LICENSE).
+
+---
