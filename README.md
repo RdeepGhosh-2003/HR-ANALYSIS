@@ -46,7 +46,8 @@ This project visualizes a fictional HR dataset to provide actionable insights in
 ## 📊 Dashboard Snapshots
 
 > *(Include images here once uploaded to the repo)*  
-> e.g., `![Dashboard Overview](images/dashboard_overview.png)`
+> e.g., `![Dashboard Overview](<img width="653" alt="HR ANALYSIS" src="https://github.com/user-attachments/assets/29fd25d5-2e39-4823-82e7-fc61498ee1f4" />
+)`
 
 ---
 
